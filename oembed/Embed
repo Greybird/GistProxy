@@ -1,0 +1,15 @@
+{
+    "provider_url": "https://greybird.github.io/GistProxy/",
+    "provider_name": "GistProxy",
+    "thumbnail_width": 960,
+    "thumbnail_height": 600,
+    "thumbnail_url": "https://doculet.net/static/doculet-logo1.png",
+    "author_name": "AT",
+    "html": "<iframe src=\"https://greybird.github.io/GistProxy/Embed\" align=\"middle\" height=\"600\" width=\"960\" frameborder=\"0\"></iframe> ",
+    "title": "Gist Proxy",
+    "width": 960,
+    "height": 600,
+    "version": "1.0",
+    "type": "rich",
+    "url": "https://greybird.github.io/GistProxy/Embed"
+}
